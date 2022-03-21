@@ -1,0 +1,23 @@
+{
+  "name": "ts-convert-consoleresume",
+  "version": "1.0.0",
+  "description": "You will create a resume that exists entirely within the developer console.\r Objectives",
+  "main": "scripts.js",
+  "scripts": {
+    "pizza": "tsc scripts.ts -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PJ-J/ConsoleResume.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PJ-J/ConsoleResume/issues"
+  },
+  "homepage": "https://github.com/PJ-J/ConsoleResume#readme",
+  "dependencies": {
+    "typescript": "^4.6.2"
+  }
+}
